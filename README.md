@@ -117,5 +117,5 @@ Built using Twine 2.6.0
 None
 
 ## Created by 
-Jason Francis
+Alexander Trippel
 ```
